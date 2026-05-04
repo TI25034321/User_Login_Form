@@ -1,2 +1,2 @@
 # User Login fORM 
-a JAVA Swing deskop application that takes username, password and role as input and display the user details on submit
+A JAVA Swing deskop application that takes username, password and role as input and display the user details on submit
